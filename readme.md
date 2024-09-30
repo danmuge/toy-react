@@ -17,3 +17,7 @@
 7. [State and Lifecycle](<document/7.State and Lifecycle.md>)
 
 8. [Hooks](document/8.Hooks.md)
+
+9. [Handling Events](<document/9.Handling Events.md>)
+
+10. [Conditional Rendering](<document/10. Conditional Rendering.md>)
