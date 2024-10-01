@@ -21,3 +21,13 @@
 9. [Handling Events](<document/9.Handling Events.md>)
 
 10. [Conditional Rendering](<document/10. Conditional Rendering.md>)
+
+11. [List and Keys](<document/11.List and Keys.md>)
+
+12. [Forms](document/12.Forms.md)
+
+13. [Lifting State Up](<document/13.Lifting State Up.md>)
+
+14. [Composition vs Inheritance](<document/14.Composition vs Inheritance.md>)
+
+15. [Context](document/15.Context.md)

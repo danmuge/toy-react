@@ -11,12 +11,15 @@ import reportWebVitals from './reportWebVitals';
 //import NotificationList from './chapter_06/NotificationList';
 //import Accommodate from './chapter_07/Accommodate';
 //import ConfirmButton from './chapter_08/ComfirmButton';
-import LandingPage from './chapter_09/LandingPage';
+//import LandingPage from './chapter_09/LandingPage';
+//import AttendanceBook from './chapter_10/AttendanceBook';
+//import SignUp from './chapter_11/SignUp';
+import Calculator from './chapter_12/Caluclator';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <LandingPage />
+    <Calculator />
   </React.StrictMode>,
   document.getElementById('root')
 );
